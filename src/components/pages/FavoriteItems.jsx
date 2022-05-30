@@ -19,7 +19,7 @@ const {favoritesItems} = useContext(AppContext)
         <div>
            <div style={{display:'flex', alignItems:'center',marginLeft:'30px'}}>
               
-           <img width={35} height={35} src="/img/favBack.png"/>
+           <img width={35} height={35} src="./img/favBack.png"/>
          
             <h2 style={{marginLeft:'25px'}} >Мои Закладки</h2>
             </div> 
